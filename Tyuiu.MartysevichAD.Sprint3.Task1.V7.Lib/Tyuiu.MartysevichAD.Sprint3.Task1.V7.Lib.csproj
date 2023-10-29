@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E3B1B469-E4DC-49DB-A258-C0B44CF9668B}</ProjectGuid>
+    <ProjectGuid>{8A739749-90D1-461D-A17C-6D5419D152E5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tyuiu.MartysevichAD.Sprint3.Task1.V7.Lib</RootNamespace>
@@ -39,8 +39,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces %281%29 %281%29">
-      <HintPath>..\tyuiu.cources.programming.interfaces (1) (1).dll</HintPath>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

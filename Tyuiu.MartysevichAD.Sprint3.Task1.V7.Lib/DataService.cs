@@ -12,7 +12,7 @@ namespace Tyuiu.MartysevichAD.Sprint3.Task1.V7.Lib
         public double GetMultiplySeries(double value, int startValue, int stopValue)
         {
             double multSeries = 1;
-            while(startValue<=stopValue)
+            while (startValue <= stopValue)
             {
                 multSeries = multSeries + ((Math.Pow(value, 2) + 1) * Math.Sin(5));
                 startValue++;

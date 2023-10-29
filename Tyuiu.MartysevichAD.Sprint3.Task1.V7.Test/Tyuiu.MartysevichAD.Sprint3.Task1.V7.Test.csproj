@@ -5,7 +5,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{120C5987-C8DD-4FD2-AF64-E9BB3271BCBC}</ProjectGuid>
+    <ProjectGuid>{5FDEEB31-2054-4F5B-BA05-5DD634B90C95}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Tyuiu.MartysevichAD.Sprint3.Task1.V7.Test</RootNamespace>
@@ -57,7 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.MartysevichAD.Sprint3.Task1.V7.Lib\Tyuiu.MartysevichAD.Sprint3.Task1.V7.Lib.csproj">
-      <Project>{e3b1b469-e4dc-49db-a258-c0b44cf9668b}</Project>
+      <Project>{8a739749-90d1-461d-a17c-6d5419d152e5}</Project>
       <Name>Tyuiu.MartysevichAD.Sprint3.Task1.V7.Lib</Name>
     </ProjectReference>
   </ItemGroup>

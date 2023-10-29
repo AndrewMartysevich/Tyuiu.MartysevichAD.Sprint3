@@ -30,9 +30,9 @@ namespace Tyuiu.MartysevichAD.Sprint3.Task1.V7
             double value = 0.25;
             int startValue = 1;
             int stopValue = 10;
-            Console.WriteLine("Переменная А" + startValue);
-            Console.WriteLine("Старт Шага" + startValue);
-            Console.WriteLine("Конец Шага" + stopValue);
+            Console.WriteLine("Переменная А " + value);
+            Console.WriteLine("Старт Шага " + startValue);
+            Console.WriteLine("Конец Шага " + stopValue);
 
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                             *");
